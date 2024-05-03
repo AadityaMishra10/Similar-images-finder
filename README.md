@@ -43,7 +43,3 @@ This project implements a web-based image similarity search application using Te
 ## Contributing
 
 Contributions are welcome! Feel free to open issues for suggestions or bug reports and submit pull requests to improve the project. 
-
-## License
-
-[Choose a License (e.g., MIT, Apache 2.0)] 
