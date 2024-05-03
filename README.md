@@ -23,7 +23,7 @@ This project implements a web-based image similarity search application using Te
 
 3. **Start the Application:**
     ```bash
-    streamlit run app.py  # Assuming your code is in 'app.py'
+    streamlit run image_search.py  # Assuming your code is in 'image_search.py'
     ```
 
 4. **Access in Browser:**  Open http://localhost:8501 (or the provided address) in your web browser.
